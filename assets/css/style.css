@@ -15,7 +15,7 @@ body{
     justify-content: center;
     min-height: 100vh;
     padding: 0 10px;
-    background: #221f2f;
+    background: #1b1929;
     overflow: hidden;
 }
 
@@ -24,7 +24,7 @@ body::before{
     position: absolute;
     width: 120px;
     height: 120px;
-    background-color: #ed2ff0;
+    background-color: #a6f02f;
     left: 15%;
     top: 20%;
     filter: blur(150px);
@@ -35,7 +35,7 @@ body::after{
     position: absolute;
     width: 120px;
     height: 120px;
-    background-color: #22a8cd;
+    background-color: #7332db;
     left: 80%;
     top: 74%;
     filter: blur(150px);
@@ -44,10 +44,10 @@ body::after{
 .container {
     width: 25rem;
     color: #fff;
-    background: rgba(0, 0, 0, 0.44);
+    background: rgba(63, 57, 57, 0.44);
     padding: 20px 30px;
     border-radius: 16px;
-    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 30px rgba(20, 20, 20, 0.1);
     backdrop-filter: blur(7.4px);
     -webkit-backdrop-filter: blur(7.4px);
     border: 1px solid rgba(0, 0, 0, 0.1);
